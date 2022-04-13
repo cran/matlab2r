@@ -1,6 +1,6 @@
 Package: matlab2r
 Title: Translation Layer from MATLAB to R
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: 
     person(
         given  = "Waldir",
@@ -17,10 +17,11 @@ Encoding: UTF-8
 RoxygenNote: 7.1.2
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
-Imports: methods
+Imports: methods, styler
+Date: 2022-04-13
 NeedsCompilation: no
-Packaged: 2022-01-28 09:58:01 UTC; waldir
+Packaged: 2022-04-13 08:05:03 UTC; waldir
 Author: Waldir Leoncio [aut, cre]
 Maintainer: Waldir Leoncio <w.l.netto@medisin.uio.no>
 Repository: CRAN
-Date/Publication: 2022-01-28 21:10:09 UTC
+Date/Publication: 2022-04-13 09:52:29 UTC
