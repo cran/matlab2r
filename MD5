@@ -1,4 +1,4 @@
-ce63a946cfc0bdfa39ce9a7563b86f9d *DESCRIPTION
+3093f8433b8d2bf9bd639458d12b1b30 *DESCRIPTION
 f2b3f467c6d5b1c09101ff3eabefa2ec *NAMESPACE
 96a59010ea615b8283733ac0472d6dea *R/blanks.R
 582413492a321d068627dca3b8508b36 *R/cell.R
@@ -10,14 +10,14 @@ c6f95cd681b539d4c3f32994371f43ad *R/fix.R
 d05886a13c3b95b6ffffb938d013f75a *R/isempty.R
 b12be936a6b6931ff3e2f555908a02f1 *R/isfield.R
 a73c2090ba15cfb72a29b4dd19a41e92 *R/isspace.R
-d598eb6c8a2bbba3726a56b24d54cad9 *R/matlab2r.R
+c96ec5d111ef792f0bac4eda606c89ad *R/matlab2r.R
 ba04e762197fa6006459d998842067a5 *R/min_max.R
 c5aadf1384894b99e1e89a40a1bcba13 *R/nargin.R
 66753e5ccd2c08acfcf05b4d3c7efce7 *R/questdlg.R
 5affa82f879cb8b2ee0852b488a3b721 *R/rand.R
 78d61b5ca7ceb5a4223da96c305b090a *R/repmat.R
 00429c3a744a18286f83fa40ccd1cdd6 *R/reshape.R
-2b51ab399089dbd25c838bf854c1ca39 *R/setdiff.R
+ae7a04927ecb3e61da9977fd58a10329 *R/setdiff.R
 ab3ea06164a082ba397a493c9c87ca7c *R/size.R
 5364c443576e4b6ac6cc1c0f5a34ff23 *R/sortrows.R
 b07b545638e419015f81d05bb0f01078 *R/squeeze.R
@@ -36,7 +36,7 @@ d9907255cf65554bf1369201a642c121 *man/fix.Rd
 12bb052aa72fe046f5adcb12050df4bf *man/inputdlg.Rd
 284f51f2daea74cde0156b3cb95f19fd *man/isempty.Rd
 c4e266273c81bbc6635feef981e667f0 *man/isfield.Rd
-f93c9f978bbfc53a36611ad620b7a4ca *man/isspace.Rd
+94aa9de67efeae2a3096b89786bc980e *man/isspace.Rd
 02cc9e8f664a3ebab9e14a7456bdb0e9 *man/matlab2r.Rd
 3c9eb9d0bb6f35fb8d946dc7b33edf1b *man/max.Rd
 9e70e2da29fdad62806006101d9b8922 *man/min.Rd
