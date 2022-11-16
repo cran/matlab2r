@@ -1,6 +1,7 @@
-6db39a30d11839d47d94495a1519afc9 *DESCRIPTION
-e938321462a180f803df5401a4d5df56 *NAMESPACE
-eae1622a4bcfacb3db14f8478b110ac8 *NEWS.md
+7dd53bec8445cca7c95c46f9b350b917 *DESCRIPTION
+c5316bcfc26ed20999fc2be053f60bf8 *NAMESPACE
+94ef28fa0a8613e359d8f816bbc99d49 *NEWS.md
+a37a7e00673381cce78f5761e006b20e *R/assert.R
 ebb405d70c353847e8a1412d5de48265 *R/blanks.R
 582413492a321d068627dca3b8508b36 *R/cell.R
 7c56fc2a2e1be75be4c5647bb1a0b702 *R/char.R
@@ -13,7 +14,8 @@ d294a1a8d434398b08137d5e482388e4 *R/inputdlg.R
 1e3649004e46e5a0ec3fb7aaddbf5cc9 *R/isempty.R
 bdea9aef94047dd18cc70e22b76d2e02 *R/isfield.R
 a73c2090ba15cfb72a29b4dd19a41e92 *R/isspace.R
-6793e3e179399237b8d723186d3a38d4 *R/matlab2r.R
+798112a6aa4867576958611b6adc5fef *R/linspace.R
+2799fe4c71fecbdf248cbc699c5d30a1 *R/matlab2r.R
 9d242be4d8fef7d08ef899056a98c46e *R/min_max.R
 096ce5ce09f446296f5fd5486f2fcab3 *R/misc.R
 c5aadf1384894b99e1e89a40a1bcba13 *R/nargin.R
@@ -33,6 +35,7 @@ b1f3272296e6757476a4793030d94188 *R/uigetfile.R
 c4b04869a218811f844c4c3ac4cc8242 *R/uiputfile.R
 bb1ca7dc7b378c3d910afa89f46619c4 *R/zeros_ones.R
 c7fdb57b451179c0af2f206fedd8b5e2 *inst/extdata/matlabDemo.m
+5c1b307933ea3ba5d70814db6c9888b6 *man/assert.Rd
 e6812c6e62eb84750ea2162d397eb7f5 *man/blanks.Rd
 e7dac2449797be3ecf28e4f53eb894f1 *man/cell.Rd
 cace2d8129b6c582c580519244c89f9e *man/char.Rd
@@ -46,6 +49,7 @@ f711db9d3f7e78e54a77a6c34660f77c *man/find.Rd
 e0419a6af68fe18726156cb2a1569cf2 *man/isempty.Rd
 bf720384e0ed1e03eb78987fe5d3fa4c *man/isfield.Rd
 94aa9de67efeae2a3096b89786bc980e *man/isspace.Rd
+41377b8d963432dc6fccab6db1cb94af *man/linspace.Rd
 aa1406fcf97dc5b995ad3344bdc74eea *man/matlab2r.Rd
 ea2187cb4011caa8ed0f9939dc1d7831 *man/max.Rd
 d8a01eb8fd9da856d571d86d4226032c *man/min.Rd
@@ -68,4 +72,6 @@ bcaf3975a6c87ebe04710f089135b28c *man/uigetfile.Rd
 2f31bb9b22ee878454013c72368352f4 *man/zeros.Rd
 669f2e3623dad735df3f5a362af6d32d *man/zeros_or_ones.Rd
 4de3ef1dc8318212cd4cfe27336af63a *tests/testthat.R
+5e4106e890298628a14160c42047ffe4 *tests/testthat/test-assert.R
 2dade980587771dbeeab65d35ecb614b *tests/testthat/test-convertedBaseFunctions.R
+67bf17a5d5b0eca06145be48fdd99b6c *tests/testthat/test-linspace.R
