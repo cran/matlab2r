@@ -1,6 +1,6 @@
-7dd53bec8445cca7c95c46f9b350b917 *DESCRIPTION
+43b635e7d3e4935a2b6b1c61eeae279d *DESCRIPTION
 c5316bcfc26ed20999fc2be053f60bf8 *NAMESPACE
-94ef28fa0a8613e359d8f816bbc99d49 *NEWS.md
+74a57223fd75b9c69bcd218e6ac90333 *NEWS.md
 a37a7e00673381cce78f5761e006b20e *R/assert.R
 ebb405d70c353847e8a1412d5de48265 *R/blanks.R
 582413492a321d068627dca3b8508b36 *R/cell.R
@@ -11,11 +11,12 @@ d6048b0225870fe0650379321a91df33 *R/find.R
 b51497631ab08a94e93a34c1f0365761 *R/fix.R
 8042db5d6e9ef7b0c59838603a5baaad *R/gammaln.R
 d294a1a8d434398b08137d5e482388e4 *R/inputdlg.R
+a1d1c94edfe6044034cb4c3e1fc01702 *R/isFilePath.R
 1e3649004e46e5a0ec3fb7aaddbf5cc9 *R/isempty.R
 bdea9aef94047dd18cc70e22b76d2e02 *R/isfield.R
 a73c2090ba15cfb72a29b4dd19a41e92 *R/isspace.R
 798112a6aa4867576958611b6adc5fef *R/linspace.R
-2799fe4c71fecbdf248cbc699c5d30a1 *R/matlab2r.R
+f053aec23ee007b9e64c9b592dd71af2 *R/matlab2r.R
 9d242be4d8fef7d08ef899056a98c46e *R/min_max.R
 096ce5ce09f446296f5fd5486f2fcab3 *R/misc.R
 c5aadf1384894b99e1e89a40a1bcba13 *R/nargin.R
@@ -46,11 +47,12 @@ f711db9d3f7e78e54a77a6c34660f77c *man/find.Rd
 12dc95eb46f4066673ddbb4288a4e662 *man/fix.Rd
 2d184dc4e08ec92a7309b6f0389c0113 *man/gammaln.Rd
 622f686753d6ffc58ba58431af688609 *man/inputdlg.Rd
+2c187d0df54a65f3a8510cdaa600c325 *man/isFilePath.Rd
 e0419a6af68fe18726156cb2a1569cf2 *man/isempty.Rd
 bf720384e0ed1e03eb78987fe5d3fa4c *man/isfield.Rd
 94aa9de67efeae2a3096b89786bc980e *man/isspace.Rd
 41377b8d963432dc6fccab6db1cb94af *man/linspace.Rd
-aa1406fcf97dc5b995ad3344bdc74eea *man/matlab2r.Rd
+d06a429e573c8b193723a3ca4adc2b2f *man/matlab2r.Rd
 ea2187cb4011caa8ed0f9939dc1d7831 *man/max.Rd
 d8a01eb8fd9da856d571d86d4226032c *man/min.Rd
 828e708403a82ba7ab6ac2aea87a47a8 *man/nargin.Rd
