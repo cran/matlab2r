@@ -1,6 +1,6 @@
-43b635e7d3e4935a2b6b1c61eeae279d *DESCRIPTION
-c5316bcfc26ed20999fc2be053f60bf8 *NAMESPACE
-74a57223fd75b9c69bcd218e6ac90333 *NEWS.md
+19fe68e13d45c0c24f812d3b4193a61b *DESCRIPTION
+d34bf34af5eeb62dd39316276d0e1fb4 *NAMESPACE
+67fc9387048329e60c4af857643e2dce *NEWS.md
 a37a7e00673381cce78f5761e006b20e *R/assert.R
 ebb405d70c353847e8a1412d5de48265 *R/blanks.R
 582413492a321d068627dca3b8508b36 *R/cell.R
@@ -14,8 +14,10 @@ d294a1a8d434398b08137d5e482388e4 *R/inputdlg.R
 a1d1c94edfe6044034cb4c3e1fc01702 *R/isFilePath.R
 1e3649004e46e5a0ec3fb7aaddbf5cc9 *R/isempty.R
 bdea9aef94047dd18cc70e22b76d2e02 *R/isfield.R
+c83c4963ecc6654f824aac45ff8c1baf *R/ismember.R
 a73c2090ba15cfb72a29b4dd19a41e92 *R/isspace.R
 798112a6aa4867576958611b6adc5fef *R/linspace.R
+8f0b636083d75fc53ee84a5b1243de0a *R/log2.R
 f053aec23ee007b9e64c9b592dd71af2 *R/matlab2r.R
 9d242be4d8fef7d08ef899056a98c46e *R/min_max.R
 096ce5ce09f446296f5fd5486f2fcab3 *R/misc.R
@@ -23,6 +25,7 @@ c5aadf1384894b99e1e89a40a1bcba13 *R/nargin.R
 3050d0e8d740f45273a7797e3de524d3 *R/num2str.R
 e7e3bba0eda3717a0058e3d95b2f37c3 *R/questdlg.R
 a00117f26ccf41dc71823bade6d361dc *R/rand.R
+27ce3aaced622050aa563bf69fa09a3e *R/rem.R
 78d61b5ca7ceb5a4223da96c305b090a *R/repmat.R
 00429c3a744a18286f83fa40ccd1cdd6 *R/reshape.R
 ae7a04927ecb3e61da9977fd58a10329 *R/setdiff.R
@@ -50,8 +53,11 @@ f711db9d3f7e78e54a77a6c34660f77c *man/find.Rd
 2c187d0df54a65f3a8510cdaa600c325 *man/isFilePath.Rd
 e0419a6af68fe18726156cb2a1569cf2 *man/isempty.Rd
 bf720384e0ed1e03eb78987fe5d3fa4c *man/isfield.Rd
+a51818e21ca3dd9a5ed136dcd37b9b56 *man/ismember.Rd
+41a2ba82ec9cca5045adeeae5d724e62 *man/ismembertol.Rd
 94aa9de67efeae2a3096b89786bc980e *man/isspace.Rd
 41377b8d963432dc6fccab6db1cb94af *man/linspace.Rd
+37ab04e6695d5c81a42c215f63e8ff21 *man/log2.Rd
 d06a429e573c8b193723a3ca4adc2b2f *man/matlab2r.Rd
 ea2187cb4011caa8ed0f9939dc1d7831 *man/max.Rd
 d8a01eb8fd9da856d571d86d4226032c *man/min.Rd
@@ -60,6 +66,7 @@ d8a01eb8fd9da856d571d86d4226032c *man/min.Rd
 81608c3ac450ed5ffa0be1ed785b1e08 *man/ones.Rd
 01d186c1dd641dace3d91418ccc57e7f *man/questdlg.Rd
 8c526ceb48ff7524cfd1eaa2b15cce43 *man/rand.Rd
+f1848a0f711c4a8b08d8cc76163813dd *man/rem.Rd
 38d2cfd8f6ea94a2dcbbb22e037a2bea *man/repmat.Rd
 f38c4f64e0b6c9811c8df6788f9116d7 *man/reshape.Rd
 8b68410e6ccf6ee60d1b0a28f3cbb31a *man/setdiff.Rd
@@ -75,5 +82,6 @@ bcaf3975a6c87ebe04710f089135b28c *man/uigetfile.Rd
 669f2e3623dad735df3f5a362af6d32d *man/zeros_or_ones.Rd
 4de3ef1dc8318212cd4cfe27336af63a *tests/testthat.R
 5e4106e890298628a14160c42047ffe4 *tests/testthat/test-assert.R
-2dade980587771dbeeab65d35ecb614b *tests/testthat/test-convertedBaseFunctions.R
+0bdba3d93ac407aea78f2f3357d83647 *tests/testthat/test-convertedBaseFunctions.R
+87e3ae9b93a846e5885b43937d1e1501 *tests/testthat/test-ismember.R
 67bf17a5d5b0eca06145be48fdd99b6c *tests/testthat/test-linspace.R
